@@ -16,7 +16,7 @@ const autoCompleteConfig = {
     //Function to Fetch Movie Data
     async fetchData(searchTerm){
         //await the response from api call  
-        const response = await axios.get('http://www.omdbapi.com/', {
+        const response = await axios.get('https://www.omdbapi.com/', {
             //List out all parameters in object - Turn into string and append to api url
             params: {
                 apikey: 'a3d723dc',
