@@ -8,7 +8,7 @@ Search for movies to compare and see which one is the best!
 
 ## Link to Live Site
 
-https://marvel-battle-arena.netlify.app/
+https://moviefightapp.netlify.app/
 
 ## Objectives
 
