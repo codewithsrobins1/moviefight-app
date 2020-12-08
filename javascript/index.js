@@ -62,7 +62,7 @@ let leftMovie;
 let rightMovie;
 //Function for Selecting a Movie from the Drop Down
 const onMovieSelect = async (movie, summaryElement, side)  => {
-    const response = await axios.get('http://www.omdbapi.com/', {
+    const response = await axios.get('https://www.omdbapi.com/', {
         //List out all parameters in object - Turn into string and append to api url
         params: {
             apikey: 'a3d723dc',
