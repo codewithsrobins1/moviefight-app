@@ -1,5 +1,3 @@
-//Index JS - non-reusable code for project at hand
-
 //MAIN Configuration Object
 const autoCompleteConfig = {
     //method to generate poster image and movie title for the dropdown autocomplete
